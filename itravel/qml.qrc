@@ -1,0 +1,53 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>MainForm.ui.qml</file>
+        <file>MainForm.qml</file>
+        <file>DestinationView.qml</file>
+        <file>MapView.qml</file>
+        <file>AddDestinationView.qml</file>
+        <file>CustomToolBar.qml</file>
+        <file>Splash.qml</file>
+        <file>DeleteDestinationView.qml</file>
+        <file>Ellipse.qml</file>
+        <file>CustomCalendar.qml</file>
+    </qresource>
+    <qresource prefix="/images">
+        <file>images/greece.jpg</file>
+        <file>images/brazil.jpg</file>
+        <file>images/newyork.jpg</file>
+        <file>images/planet-earth.png</file>
+        <file>images/marker.png</file>
+        <file>images/selectImage.gif</file>
+        <file>images/noImage.png</file>
+        <file>images/icons/black/add.png</file>
+        <file>images/icons/black/back.png</file>
+        <file>images/icons/black/delete.png</file>
+        <file>images/icons/black/done.png</file>
+        <file>images/icons/black/editOff.png</file>
+        <file>images/icons/black/editOn.png</file>
+        <file>images/icons/black/save.png</file>
+        <file>images/icons/black/settings.png</file>
+        <file>images/icons/white/add.png</file>
+        <file>images/icons/white/back.png</file>
+        <file>images/icons/white/delete.png</file>
+        <file>images/icons/white/done.png</file>
+        <file>images/icons/white/editOff.png</file>
+        <file>images/icons/white/editOn.png</file>
+        <file>images/icons/white/save.png</file>
+        <file>images/icons/white/settings.png</file>
+        <file>images/icons/white/time.png</file>
+        <file>images/icons/black/time.png</file>
+        <file>images/logoTravel.png</file>
+        <file>images/china.jpg</file>
+        <file>images/italy.jpg</file>
+        <file>images/morocco.jpg</file>
+        <file>images/brazil_olymp.jpg</file>
+        <file>images/olympics1.jpg</file>
+    </qresource>
+    <qresource prefix="/styles">
+        <file>styles/qmldir</file>
+        <file>styles/Style1.qml</file>
+        <file>styles/Style2.qml</file>
+    </qresource>
+</RCC>
